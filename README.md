@@ -4,7 +4,7 @@ Pivoting from a Computer Engineering degree and embedded-systems teaching into b
 software engineering, through a structured ~400-hour self-directed program.
 
 **What I build:** secure, tested REST APIs — real deployments, real databases,
-defense-in-depth auth, integration tests against live Postgres, not mocked theater.
+defense-in-depth auth, integration tests against live Postgres.
 
 #### Projects
 
