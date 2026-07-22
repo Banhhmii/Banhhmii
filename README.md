@@ -19,4 +19,4 @@ Node.js · Express · PostgreSQL · Knex · Redis · Jest/Supertest · JWT/bcryp
 
 #### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/tommy-ngo1) · ngtommy2436@gmail.com
+[Portfolio](https://banhhmii.github.io) · [LinkedIn](https://www.linkedin.com/in/tommy-ngo1) · ngtommy2436@gmail.com
