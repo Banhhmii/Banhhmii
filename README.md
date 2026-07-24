@@ -1,7 +1,7 @@
 ### Backend Engineer (self-taught) — Node.js / Express / PostgreSQL
 
 Pivoting from a Computer Engineering degree and embedded-systems teaching into backend
-software engineering, through a structured ~400-hour self-directed program.
+software engineering.
 
 **What I build:** secure, tested REST APIs — real deployments, real databases,
 defense-in-depth auth, integration tests against live Postgres.
